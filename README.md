@@ -38,4 +38,4 @@ The run_analysis.R script contains all transformations needed to create tidy dat
 
 8.	 Writes final data set into the HumanActivityAverages.csv file in the R working directory
 
-The run_analysis.R script is self contained and portable. It can run in R console (tested in R version 3.1.3) or RStudio console (tested in RStudio Version 0.99.485). The output file HumanActivityAverages.csv, Human Activity Recognition package and UCI HAR Dataset will be residing in the R working directory after the script successfully finishes  
+The run_analysis.R script is self contained and portable. It can run in R console (tested in R version 3.1.3) or RStudio console (tested in RStudio Version 0.99.485). The output file HumanActivityAverages.csv, Human Activity Recognition zipped package and UCI HAR Dataset will be residing in the R working directory after the script successfully finishes  
