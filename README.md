@@ -1,5 +1,7 @@
 # GettingAndCleaningData
  
+Course Project
+
 The run_analysis.R script contains all transformations needed to create tidy data set with Mean and Standard Deviation values of base variables, averaged for each Activity / Subject pair. The script performs following operations:
 
 1.	Downloads Human Activity Recognition package from the URL provided in the Course Project assignment;
